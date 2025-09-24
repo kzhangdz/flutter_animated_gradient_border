@@ -1,6 +1,7 @@
 # flutter_animated_gradient_border
 
-A new Flutter project.
+<img width="1174" height="530" alt="Screenshot 2025-09-24 005859" src="https://github.com/user-attachments/assets/b17b2a9d-74df-4bc4-a7f2-4e8d07ecfc65" />
+
 
 ## Getting Started
 
