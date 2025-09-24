@@ -131,6 +131,12 @@ class _AnimatedGradientBorderState extends State<AnimatedGradientBorder>
   }
 
   @override
+  void dispose() {
+    _controller.dispose();
+    super.dispose();
+  }
+
+  @override
   Widget build(BuildContext context) {
     return LayoutBuilder(
       // provides access to constraints
